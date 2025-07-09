@@ -22,7 +22,10 @@ javac PasswordGenerator.java
 ```
 ### Step 2: Run the program
 java PasswordGenerator
+```
+```
 ### Sample Output
 === Password Generator ===
 Enter desired password length: 10
 Generated Password: Ab9@qR!2#T
+```
